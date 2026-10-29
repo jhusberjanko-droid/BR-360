@@ -1,0 +1,25 @@
+EMI VR LAB — Landing Page
+========================
+
+Contenido
+- index.html: estructura y textos de la página.
+- styles.css: diseño adaptable a escritorio, tablet y móvil.
+- script.js: menú móvil y año automático.
+- assets/: imágenes recortadas de las capturas suministradas y video original.
+
+Cómo abrir
+1. Extrae la carpeta.
+2. Abre index.html en Chrome, Edge o Firefox.
+3. Para publicar, sube toda la carpeta manteniendo la estructura de assets.
+
+Antes de publicar
+- Reemplaza contacto@emivrlab.example por el correo oficial o cambia el botón a WhatsApp/redes oficiales.
+- Confirma el nombre comercial definitivo: el material recibido usa “EMI VR LAB” y “VR 360°”, mientras que en conversaciones previas se mencionó “Lentes BR 360”.
+- Los precios del catálogo se transcribieron tal como aparecen en el material: juegos 5, 10, 8 y 15 EMI-Coins; planes de negocio 30, 60, 100 y 150 EMI-Coins.
+- El botón de contacto es una plantilla; no envía pedidos a una base de datos. El correo de ejemplo debe sustituirse antes de publicar.
+- Se usó el video proporcionado como fondo visual. Si no se reproduce en algún navegador, queda la imagen de portada.
+
+Correcciones editoriales aplicadas
+- Uniformé la escritura de “realidad virtual”, “tour virtual”, “EMI-Coins” y “código QR”.
+- Organicé la información por intención del visitante: juegos, servicios para negocios, planes, proceso, calidad y contacto.
+- No publiqué nombres del personal ni datos de clientes de los documentos internos, para mantener el foco comercial y evitar exponer datos innecesarios.
